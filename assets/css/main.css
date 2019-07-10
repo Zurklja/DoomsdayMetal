@@ -3757,7 +3757,7 @@ input, select, textarea {
 
 	#main {
 		/*background-color: #ffffff;*/
-		background-color: #151602;
+		background-color: #000000;
 		/*background-color: transparent;*/
 		/*background-image: url("../../images/1.png");*/
 		position: relative;
@@ -3766,7 +3766,7 @@ input, select, textarea {
 		max-width: 72rem;
 		z-index: 2;
 		filter:alpha(opacity=50);
-		opacity:0.8;
+		opacity:0.5;
 
 	}
 
@@ -3959,7 +3959,7 @@ input, select, textarea {
 		display: -webkit-flex;
 		display: -ms-flex;
 		display: flex;
-		background-color: #151602;
+		background-color: #000000;
 		color: #909498;
 		cursor: default;
 		position: relative;
@@ -3968,7 +3968,7 @@ input, select, textarea {
 		max-width: 72rem;
 		z-index: 2;
 		filter:alpha(opacity=50);
-		opacity:0.8;
+		opacity:0.5;
 	}
 
 		#footer input, #footer select, #footer textarea {
